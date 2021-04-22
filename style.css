@@ -1,0 +1,80 @@
+/*structuration du header*/
+section {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95vw;
+}
+
+/*mise en place de la police google*/
+
+body {
+font-family: 'Lato', sans-serif;
+} 
+
+/*alignement du h1 par rapport au header*/
+
+h1 {
+    line-height: 3rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/*alignement vertical des icônes*/
+
+h2{
+    margin-bottom: 1.5rem;
+}
+
+/*structuration de la première section*/
+
+.one{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+/*structuration du h3 de la première section*/
+
+.one h3{
+    margin-top: 3rem;
+}
+
+/*mise en place du menu*/
+
+.menu{ 
+    float: right;
+    position:relative;
+	width:256px;
+	height:96%;
+	padding-right:0px;
+	padding-left:0px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color: #FFFFFF;
+}
+/*alignement de mon bouton call to action*/
+a{
+    display: block;
+    margin : auto;
+ }
+
+/*taille des svg*/
+
+#svg{
+	width: 5px;
+	height: 5px;
+    max-width: 100%;
+	height: auto;
+    color: #0AA8A7;
+}
+
+/*couleur*/
+.box{
+    color : #0AA8A7;
+}
+
+
+
+
+
+
+
